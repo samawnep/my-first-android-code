@@ -1,0 +1,8 @@
+com/example/linearlayout/BuildConfig.java
+ com.example.linearlayout.BuildConfig
+com/example/linearlayout/MainActivity.java
+ com.example.linearlayout.MainActivity
+ com.example.linearlayout.MainActivity$1
+ com.example.linearlayout.MainActivity$2
+ com.example.linearlayout.MainActivity$3
+ com.example.linearlayout.MainActivity$4
